@@ -14,15 +14,15 @@
 
 // Probiere die Jahre 2020,2016 und 2015 in der Funktion aus.
 
-let dat = new Date();
-console.log(dat);
-let yr = dat.getFullYear();
-let dy = dat.getDay();
-let dateNumber = dat.getDate();
-console.log(dateNumber);
+// let dat = new Date();
+// console.log(dat);
+// let yr = dat.getFullYear();
+// let dy = dat.getDay();
+// let dateNumber = dat.getDate();
+// console.log(dateNumber);
 
-let weekdays = ["So", "Mo", "Di", "Mi", "Do", "Freitag ☠️", "Sa"];
-console.log(weekdays[5]);
+// let weekdays = ["So", "Mo", "Di", "Mi", "Do", "Freitag ☠️", "Sa"];
+// console.log(weekdays[5]);
 
 
 
